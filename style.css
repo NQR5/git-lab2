@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://images.pexels.com/photos/28823804/pexels-photo-28823804/free-photo-of-saudi-arabian-flag-indoors-against-brown-curtains.jpeg?auto=compress&cs=tinysrgb&w=600) ;
+    background-size: cover;
+font-family:  sans-serif;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+header {
+background-color: rgb(61, 24, 24);
+color: #fff;
+padding: 20px 0;
+font-size: 24px;
+}
+.Riyadh {
+width: 80%;
+max-width: 600px;
+margin: 20px 0;
+border-radius: 20px;
+}
+p {
+padding: 0 20px;
+color: #ffffff;
+font-weight: bold;
+}
+ul {
+list-style: none;
+padding: 0;
+}
+ul li {
+display: inline;
+background: #54c072;
+color: #fff;
+margin: 10px;
+padding: 10px;
+border-radius: 5px;
+margin-bottom:10px ;
+}
+
+.video {
+margin: 10px ;
+padding: 10px;
+}
+a {
+    height: fit-content;
+    width: fit-content;
+    background-color: #54c072;
+display: block;
+margin: auto;
+margin-bottom: 10px;
+padding: 20px;
+text-decoration: none;
+color: #ffffff;
+font-weight: bold;
+}
+a:hover{
+    background-color: #54c07356;
+}
+h2 , h3{
+    color: #ffffff;
+}
+iframe{
+    border: 2px solid black;
+}
